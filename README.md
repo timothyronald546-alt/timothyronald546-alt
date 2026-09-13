@@ -1,38 +1,3 @@
-<img data-importer="snake" src="https://raw.githubusercontent.com/timothyronald546-alt/timothyronald546-alt/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timothyronald546-alt/timothyronald546-alt/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/timothyronald546-alt/timothyronald546-alt/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/timothyronald546-alt/timothyronald546-alt/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<p data-importer="text" align="left">Hello World!!</p>
-
-###
-
-<p data-importer="text" align="left">Hello World!!</p>
-
-###
-
-<p data-importer="text" align="left">Hello World!!</p>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=timothyronald546-alt.timothyronald546-alt&"  />
-</div>
-
-###
-
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 <!-- HEADER -->
 <div align="center">
 
@@ -194,3 +159,39 @@ Turn ideas into products through creativity, persistence, and innovation.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:8A2BE2,100:00D4FF&height=120&section=footer" width="100%"/>
 
 </div>
+<img data-importer="snake" src="https://raw.githubusercontent.com/timothyronald546-alt/timothyronald546-alt/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timothyronald546-alt/timothyronald546-alt/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/timothyronald546-alt/timothyronald546-alt/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/timothyronald546-alt/timothyronald546-alt/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=timothyronald546-alt.timothyronald546-alt&"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
